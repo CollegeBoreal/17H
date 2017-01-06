@@ -1,3 +1,9 @@
 [submodule "INF1051"]
 	path = INF1051
 	url = https://github.com/CollegeBoreal/INF1051-17H
+[submodule "INF1021"]
+	path = INF1021
+	url = https://github.com/CollegeBoreal/INF1021-17H
+[submodule "INF1069"]
+	path = INF1069
+	url = https://github.com/CollegeBoreal/INF1069-17H
