@@ -12,5 +12,8 @@
 
 
 
+# Calendrier GINF
+![alt tag](https://github.com/CollegeBoreal/17H/blob/master/GINF17H.png)
 
-[alt tag](https://github.com/CollegeBoreal/17H/blob/master/GINQ17H.png)
+# Calendrier GINQ
+![alt tag](https://github.com/CollegeBoreal/17H/blob/master/GINQ17H.png)
